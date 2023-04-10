@@ -1,0 +1,24 @@
+Product name:           Genius KB-110X
+Model number:           GK-100011
+Layout:                 HU-105
+Key mechanism:          Plastic membranes + rubber domes
+USB name:               SINO WEALTH USB KEYBOARD
+USB ID:                 258A:0001
+
+Matrix markings:        KB-S1 US TOP
+                        KB-S1 US BOT
+                        ECF-0S1US100
+                        XK-HY-015
+                        2017-06-02-10
+
+Controller markings:    20140815 VER:1.0
+                        SBZ-779-U+P(XA2001)
+                        EPC-07796004
+                        V1.0
+
+Pinouts:
+    Matrix connector:
+    [R7 R6 R5 R4 R3] [R2 R1 R0 C17 C16 C0 C9 C8 C10 C15 C11 C12 C13 C14 C7 C6] [C5 C4 C3 C2 C1]
+
+    USB connector:
+    [Green White Red Black NotConnected]
