@@ -22,3 +22,117 @@ Pinouts:
 
     USB connector:
     [Green White Red Black NotConnected]
+
+Matrix:
+    R0      C0      PauseBrk
+    R0      C1      Q
+    R0      C2      W
+    R0      C3      E
+    R0      C4      R
+    R0      C5      U
+    R0      C6      I
+    R0      C7      O
+    R0      C8      P
+    R0      C9      ScrollLock
+    R0      C11     Num 7
+    R0      C12     Num 8
+    R0      C13     Num 9
+    R0      C14     Num +
+
+    R1      C1      Tab
+    R1      C2      CapsLock
+    R1      C3      F3
+    R1      C4      T
+    R1      C5      Z
+    R1      C6      Ú
+    R1      C7      F7
+    R1      C8      Ő
+    R1      C10     Backspace
+    R1      C11     Num 4
+    R1      C12     Num 5
+    R1      C13     Num 6
+    R1      C15     LeftShift
+    R1      C16     LeftSuper
+
+    R2      C1      A
+    R2      C2      S
+    R2      C3      D
+    R2      C4      F
+    R2      C5      J
+    R2      C6      K
+    R2      C7      L
+    R2      C8      É
+    R2      C10     Ű
+    R2      C11     Num 1
+    R2      C12     Num 2
+    R2      C13     Num 3
+    R2      C14     Num Enter
+    R2      C15     RightShift
+    R2      C17     RightSuper
+
+    R3      C1      Escape
+    R3      C2      Í
+    R3      C3      F4
+    R3      C4      G
+    R3      C5      H
+    R3      C6      F6
+    R3      C8      Á
+    R3      C9      Alt
+    R3      C10     F11
+    R3      C11     Space
+    R3      C12     Num 0
+    R3      C13     Num Del
+    R3      C14     Up
+
+    R4      C0      RightCtrl
+    R4      C1      Y
+    R4      C2      X
+    R4      C3      C
+    R4      C4      V
+    R4      C5      M
+    R4      C6      ,
+    R4      C7      .
+    R4      C10     Enter
+    R4      C11     NumLock
+    R4      C12     Num /
+    R4      C13     Num *
+
+    R5      C4      B
+    R5      C5      N
+    R5      C7      Menu
+    R5      C8      -
+    R5      C9      AltGr
+    R5      C10     F12
+    R5      C11     Down
+    R5      C12     Right
+    R5      C13     Num -
+    R5      C14     Left
+
+    R6      C0      LeftCtrl
+    R6      C1      0
+    R6      C2      F1
+    R6      C3      F2
+    R6      C4      5
+    R6      C5      6
+    R6      C6      Ó
+    R6      C7      F8
+    R6      C8      Ü
+    R6      C10     F9
+    R6      C11     Delete
+    R6      C12     Insert
+    R6      C13     PageUp
+    R6      C14     Home
+
+    R7      C0      F5
+    R7      C1      1
+    R7      C2      2
+    R7      C3      3
+    R7      C4      4
+    R7      C5      7
+    R7      C6      8
+    R7      C7      9
+    R7      C8      Ö
+    R7      C9      PrintScr
+    R7      C10     F10
+    R7      C13     PageDown
+    R7      C14     End
