@@ -34,11 +34,16 @@ Matrix:
     R0      C7      O
     R0      C8      P
     R0      C9      ScrollLock
+    R0      C10     (Unconnected)
     R0      C11     Num 7
     R0      C12     Num 8
     R0      C13     Num 9
     R0      C14     Num +
+    R0      C15     (Unconnected)
+    R0      C16     (Unconnected)
+    R0      C17     (Unconnected)
 
+    R1      C0      (Unconnected)
     R1      C1      Tab
     R1      C2      CapsLock
     R1      C3      F3
@@ -47,13 +52,17 @@ Matrix:
     R1      C6      Ú
     R1      C7      F7
     R1      C8      Ő
+    R1      C9      (Unconnected)
     R1      C10     Backspace
     R1      C11     Num 4
     R1      C12     Num 5
     R1      C13     Num 6
+    R1      C14     (Unconnected)
     R1      C15     LeftShift
     R1      C16     LeftSuper
+    R1      C17     (Unconnected)
 
+    R2      C0      (Unconnected)
     R2      C1      A
     R2      C2      S
     R2      C3      D
@@ -62,20 +71,24 @@ Matrix:
     R2      C6      K
     R2      C7      L
     R2      C8      É
+    R2      C9      (Unconnected)
     R2      C10     Ű
     R2      C11     Num 1
     R2      C12     Num 2
     R2      C13     Num 3
     R2      C14     Num Enter
     R2      C15     RightShift
+    R2      C16     (Unconnected)
     R2      C17     RightSuper
 
+    R3      C0      (Unconnected)
     R3      C1      Escape
     R3      C2      Í
     R3      C3      F4
     R3      C4      G
     R3      C5      H
     R3      C6      F6
+    R3      C7      (Unconnected)
     R3      C8      Á
     R3      C9      Alt
     R3      C10     F11
@@ -83,6 +96,9 @@ Matrix:
     R3      C12     Num 0
     R3      C13     Num Del
     R3      C14     Up
+    R3      C15     (Unconnected)
+    R3      C16     (Unconnected)
+    R3      C17     (Unconnected)
 
     R4      C0      RightCtrl
     R4      C1      Y
@@ -92,13 +108,24 @@ Matrix:
     R4      C5      M
     R4      C6      ,
     R4      C7      .
+    R4      C8      (Unconnected)
+    R4      C9      (Unconnected)
     R4      C10     Enter
     R4      C11     NumLock
     R4      C12     Num /
     R4      C13     Num *
+    R4      C14     (Unconnected)
+    R4      C15     (Unconnected)
+    R4      C16     (Unconnected)
+    R4      C17     (Unconnected)
 
+    R5      C0      (Unconnected)
+    R5      C1      (Unconnected)
+    R5      C2      (Unconnected)
+    R5      C3      (Unconnected)
     R5      C4      B
     R5      C5      N
+    R5      C6      (Unconnected)
     R5      C7      Menu
     R5      C8      -
     R5      C9      AltGr
@@ -107,6 +134,9 @@ Matrix:
     R5      C12     Right
     R5      C13     Num -
     R5      C14     Left
+    R5      C15     (Unconnected)
+    R5      C16     (Unconnected)
+    R5      C17     (Unconnected)
 
     R6      C0      LeftCtrl
     R6      C1      0
@@ -117,11 +147,15 @@ Matrix:
     R6      C6      Ó
     R6      C7      F8
     R6      C8      Ü
+    R6      C9      (Unconnected)
     R6      C10     F9
     R6      C11     Delete
     R6      C12     Insert
     R6      C13     PageUp
     R6      C14     Home
+    R6      C15     (Unconnected)
+    R6      C16     (Unconnected)
+    R6      C17     (Unconnected)
 
     R7      C0      F5
     R7      C1      1
@@ -134,5 +168,10 @@ Matrix:
     R7      C8      Ö
     R7      C9      PrintScr
     R7      C10     F10
+    R7      C11     (Unconnected)
+    R7      C12     (Unconnected)
     R7      C13     PageDown
     R7      C14     End
+    R7      C15     (Unconnected)
+    R7      C16     (Unconnected)
+    R7      C17     (Unconnected)
