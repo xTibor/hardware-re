@@ -201,5 +201,6 @@ Matrix:
 
 Soldering onto the matrix connector:
     Solder does not flow onto the black conductive goop on the matrix connector.
-    There are thin copper traces under the black goop, carefully scrape the goop off to expose the copper.
+    There are thin copper traces under the black goop (around ~0.3mm wide by eyeballing them).
+    Carefully scrape the goop off to expose the copper.
     The copper traces are very easy to rip off, reinforce them after soldering.
