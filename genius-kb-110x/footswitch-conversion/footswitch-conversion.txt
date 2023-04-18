@@ -26,6 +26,12 @@ Wiring:
     Pedal #3:   R3 -> Button -> C11    Space
     Pedal #4:   R6 -> Button -> C0     Ctrl
 
+Wiring colors and labels:
+    Blue:   Matrix row wires,    board side,  labeled: Rx  (x = row number)
+    Green:  Matrix row wires,    button side, labeled: BxR (x = button ID)
+    Red:    Matrix column wires, board side,  labeled: Cx  (x = column number)
+    Orange: Matrix column wires, button side, labeled: BxC (x = button ID)
+
 Remaining issues:
     * Create top cover (6cm x 36cm x 2cm)
 
