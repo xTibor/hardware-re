@@ -25,3 +25,16 @@ Wiring:
     Pedal #2:   R1 -> Button -> C15    Shift
     Pedal #3:   R3 -> Button -> C11    Space
     Pedal #4:   R6 -> Button -> C0     Ctrl
+
+Remaining issues:
+    * Board sends spurious XF86Sleep and XF86PowerOff key events when pressing
+      Pedal #3. Something is shorting somewhere. These keys weren't on the plastic
+      keyboard matrix, I don't know what pads they correspond to.
+      Scraped the shit out of the gaps between the pads, hope it helps.
+      I also temporarily disabled the Sleep/PowerOff shortcuts in KDE Plasma.
+
+    * Accidentally ripped the R6 pad off the board while trying to solve the first issue.
+      Wire was reinforced with CA glue to avoid ripping off pads like C11 before,
+      however it didn't help. So Pedal #4 doesn't work anymore.
+      B4R/R6 wire needs reattachment to some newly scraped copper around R6,
+      or worst case move the wire to pad R4. (LeftCtrl -> RightCtrl)
