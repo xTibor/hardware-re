@@ -1,0 +1,27 @@
+Materials:
+    * Genius KB-110X controller board
+    * A damaged 80's coffee table (2cm thick furniture shitboard)
+    * 6mm x 35cm brass rod with a 90 degree bend on one end
+    * Wood screws (2cm, 5cm)
+    * 4 tactile switches
+    * Colorful cables, cable labels
+    * Duct tape
+    * Glue: Loctite Super Bond, Technokol Rapid (red)
+    * Drill, jigsaw, multimeter
+    * Ruler, black marker pen
+    * Standard soldering stuff (iron, solder, flux, shrink tubes)
+    * Kitchen sponge
+    * Thick tractor grease
+    * Sticky cable clips
+
+Measurements:
+    * Pedals:          8cm x 17cm x 2cm
+    * Sides:           6cm x 24cm x 2cm
+    * Center:         10cm x 32cm x 2cm
+    * Board pedestal:  1cm x  7cm x 2cm
+
+Wiring:
+    Pedal #1:   R3 -> Button -> C9     Alt
+    Pedal #2:   R1 -> Button -> C15    Shift
+    Pedal #3:   R3 -> Button -> C11    Space
+    Pedal #4:   R6 -> Button -> C0     Ctrl
