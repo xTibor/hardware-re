@@ -15,10 +15,14 @@ Materials:
     * Sticky cable clips
 
 Measurements:
-    * Pedals:          8cm x 17cm x 2cm
-    * Sides:           6cm x 24cm x 2cm
-    * Center:         10cm x 32cm x 2cm
-    * Board pedestal:  1cm x  7cm x 2cm
+    * Pedals:          8.0cm x 17.0cm x 2.0cm   (x4)
+    * Sides:           6.0cm x 24.0cm x 2.0cm   (x2)
+    * Center:         10.0cm x 32.0cm x 2.0cm   (x1)
+    * Board pedestal:  1.0cm x  7.0cm x 2.0cm   (x1)
+    * Top cover:       6.5cm x 36.0cm x 2.0cm   (x1)
+    * Toe guard:       1.0cm x 30.5cm x 2.0cm   (x1)
+
+    Tolerance: ±0.5cm lengthwise
 
 Wiring:
     Pedal #1:   R3 -> Button -> C9     Alt
@@ -33,7 +37,7 @@ Wiring colors and labels:
     Orange: Matrix column wires, button side, labeled: BxC (x = button ID)
 
 Remaining issues:
-    * Create top cover (6cm x 36cm x 2cm)
+    -
 
 Solved issues:
     * Board sends spurious XF86Sleep and XF86PowerOff key events when pressing
@@ -43,6 +47,9 @@ Solved issues:
       I also temporarily disabled the Sleep/PowerOff shortcuts in KDE Plasma.
      Solution: Scraping/cleaning seems to have worked for now. More scraping/cleaning
       in case the problem returns. And hopefully without ripping off more traces.
+      Commands I used for checking spurious events:
+        $ tastenbrett
+        $ xev | grep keysym
 
     * Accidentally ripped the R6 pad off the board while trying to solve the first issue.
       Wire was reinforced with CA glue to avoid ripping off pads like C11 before,
