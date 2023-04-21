@@ -1,7 +1,7 @@
 Materials:
     * Genius KB-110X controller board
     * A damaged 80's coffee table (2cm thick furniture shitboard)
-    * 6mm x 35cm brass rod with a 90 degree bend on one end
+    * 6mm x 40cm brass rod with a 90 degree bend on one end
     * Wood screws (2cm, 5cm)
     * 4 tactile switches
     * Colorful cables, cable labels
@@ -9,7 +9,7 @@ Materials:
     * Glue: Loctite Super Bond, Technokol Rapid (red)
     * Drill, jigsaw, multimeter
     * Ruler, black marker pen
-    * Standard soldering stuff (iron, solder, flux, shrink tubes)
+    * Standard soldering stuff (iron, solder, flux, shrink tubes, IPA)
     * Kitchen sponge
     * Thick tractor grease
     * Sticky cable clips
