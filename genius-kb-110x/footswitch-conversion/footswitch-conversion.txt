@@ -57,12 +57,16 @@ Solved issues:
       solder blob and reinforced the connection with CA glue. If this falls off,
       the wire goes straight to R4.
 
-Remaining issues:
     * Spurious events are still an issue, however they are less frequent. Events received:
         R7      C0      F5
         R?      C?      XF86Tools
         R?      C?      XF86Sleep
         R?      C?      XF86PowerOff
-     I didn't have IPA on hand, cleaned the board with some mystery liquid containing
-     unknown amount of ethyl alcohol (~70%?). Board is squeaky clean from flux now.
-     Should find out who the hell sells IPA in town. Pharmacies don't.
+      I didn't have IPA on hand, cleaned the board with some mystery liquid containing
+      unknown amount of ethyl alcohol (~70%?). Board is squeaky clean from flux now.
+      Should find out who the hell sells IPA in town. Pharmacies don't.
+     Solution: Thoroughly cleaning the board fixed this, cannot reproduce it anymore.
+      My Fahrenheit 17059A soldering paste may have been slightly conductive, causing shorts.
+
+Remaining issues:
+    -
