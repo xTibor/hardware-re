@@ -1,0 +1,33 @@
+Multiclear Ultrasonic Cleaner
+
+Housing:
+    Steel
+    Dimensions: 17x24x22cm (width/length/height)
+    Teal marbled paint
+    Two recessed handles
+    Four screwed rubber feet
+
+Bowl:
+    ? liters stainless steel
+    Stamped: BLANCO
+    Dimensions: 14x15x15cm (width/length/depth), rounded with r=5cm
+
+Power cord:
+    CEE 7/16 Europlug, marked "Dz1-22"
+
+Controls:
+    A single green rocker power switch
+
+Product label:
+    +-----------------------------+     HU                      EN
+    | TIP.:       MULTICLEAR      |     TÍPUS                   TYPE
+    | Gy. sz.:                    |     Gyártási szám           Serial number
+    | Gy. év.:                    |     Gyártási év             Year of manufacture
+    | UH telj.:   50/100W         |     Ultrahang teljesítmény  Ultrasonic power
+    | Freqv.:     38.000 Hz ± 10% |     Frekvencia              Frequency
+    | Fesz.:      220 V/50 Hz     |     Feszültség              Voltage
+    | Max. áram:  400 mA          |     Maximális áram          Maximum current
+    +-----------------------------+
+
+Instructions label:
+    English + Hungarian, 8 steps. Too worn to read.
