@@ -17,3 +17,11 @@ Parts:
     Columns: (4x) - 10 x  2 x 2cm - bevel cut - 8 dowels - Wood glue
     Sides:   (2x) - 26 x  1 x 2cm -           -          - CA glue
     Sides:   (2x) - 24 x  1 x 2cm -           -          - CA glue
+
+Visitor species:
+    * Eurasian nuthatch     (Sitta europaea)
+    * European goldfinch    (Carduelis carduelis)
+    * European greenfinch   (Chloris chloris)
+    * Great tit             (Parus major)
+    * Hawfinch              (Coccothraustes coccothraustes)
+    * House sparrow         (Passer domesticus)
